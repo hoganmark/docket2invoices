@@ -1,0 +1,4 @@
+docket_location: /Users/markhogan/projects/docket2invoices/test/data/dockets
+output_location: /Users/markhogan/out
+template_location: /Users/markhogan/projects/docket2invoices/test/data/templates
+clients_location: /Users/markhogan/projects/docket2invoices/test/data/clients.docx
